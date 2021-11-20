@@ -96,13 +96,9 @@ export default {
 
 
 <style>
-.dashboard.h_100vh {
-  height: 100vh;
-}
+
 .dashboard__content {
   padding: 85px 20px;
-   background: linear-gradient(
-169.68deg, #3F298D 6.91%, #1A0657 20.42%, #1D1B29 38.25%);
 }
 .main-extra {
   width: 100%;
